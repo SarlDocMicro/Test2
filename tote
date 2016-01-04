@@ -1,0 +1,13 @@
+<?php
+
+echo"Mon php";;
+
+include("./header/header.php"); // Inclure un fichier
+
+$age = 21;
+$test=50;
+$permis=true;
+echo "j'ai $age ans <br \>"; //Concaténation d'une variable V1
+echo 'j\'ai '.$age.' ans '; // V2 plus opti
+
+?>
