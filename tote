@@ -1,6 +1,6 @@
 <?php
 
-echo"Mon php";;
+echo"Mon php";
 
 include("./header/header.php"); // Inclure un fichier
 
